@@ -1,5 +1,5 @@
 Readme.md
-# Module 17 Challenge - Computer Science for JavaScript Challenge: Regex Tutorial
+# Regex Tutorial
 
 Ngandala Lopes, 05/07/2023
 
