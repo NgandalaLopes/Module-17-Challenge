@@ -158,13 +158,8 @@ Greedy and Lazy Quantifers allow you to find the Greedy and the Lazy match. "Gre
 ## Author
 
 Ngandala Lopes,
-
-Github link: https://github.com/NgandalaLopes/
-
+Github: https://github.com/NgandalaLopes/
 Email: ngandalalopes@gmail.com
-
-Link: https://github.com/NgandalaLopes/Module-17-Challenge
-
 Clone: https://github.com/NgandalaLopes/Module-17-Challenge.git
 ## User Story
 
